@@ -83,3 +83,5 @@ lint/tmp/
 # lint/reports/
 
 app/release/output-metadata.json
+
+img/src/
