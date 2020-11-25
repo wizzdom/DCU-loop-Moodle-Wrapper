@@ -4,7 +4,7 @@ Android app that wrapps moodle to support URLs of the Moddle servers of the TU D
 ![Screenshot to illustrate the app](fastlane/metadata/android/en-US/images/screenshot_1.png)
 
 ## Disclaimer
-Neither is this an officail project by the TU Darmstadt nor by Moodle. This is just started by me, a student at the TU Darmstadt, that has to much spare time.
+Neither is this an official project by the TU Darmstadt nor by Moodle. This is just started by me, a student at the TU Darmstadt, that has to much spare time.
 
 ## You can download and install the app for free [here](https://github.com/JonasBernard/TU-Darmstadt-Moodle-Wrapper/releases/download/v1.0/TU-Darmstadt-Moodle-Wrapper.apk).
 
