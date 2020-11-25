@@ -1,7 +1,7 @@
 # TU-Darmstadt-Moodle-Wrapper
 Android app that wrapps moodle to support URLs of the Moddle servers of the TU Darmstadt.
 
-![Screenshot to illustrate the app](img/screenshot_1.png)
+![Screenshot to illustrate the app](fastlane/metadata/android/en-US/images/screenshot_1.png)
 
 ## Disclaimer
 Neither is this an officail project by the TU Darmstadt nor by Moodle. This is just started by me, a student at the TU Darmstadt, that has to much spare time.
@@ -9,14 +9,14 @@ Neither is this an officail project by the TU Darmstadt nor by Moodle. This is j
 ## You can download and install the app for free [here](https://github.com/JonasBernard/TU-Darmstadt-Moodle-Wrapper/releases/download/v1.0/TU-Darmstadt-Moodle-Wrapper.apk).
 
 The Moodle at the TU Darmstadt regularly sends me mails with Moodle links to courses, forum posts and other conent on Moodle. I always read those
-mails on my android phone, but clicking on those links from the mails results in opening the browser. I installed the [official Moodle App](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=de&gl=US), and wanted the links to open in the Moodle App.
+mails on my android phone, but clicking on those links from the mails results in opening the browser. I installed the [official Moodle App](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile), and wanted the links to open in the Moodle App.
 As this is not nativly supported by the Moodle App, I sat down and coded this little app, that redirects links to the Moodle App.
 
 After the app was finished, I wondered, if someone else could find this useful. The app is minimal and easy to use. Just install it, and all
 supported links can be opened in Moodle.
 
 # Prerequisites
-You will need to have and android phone with at least Android 6.0 Marshmallow and the [official Moodle App](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=de&gl=US) with at leaset version 2 installed.
+You will need to have and android phone with at least Android 6.0 Marshmallow and the [official Moodle App](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile) with at least version 2 installed.
 
 # I get a warning from Google Play Protect, what should I do?
 I did not upload the app to Google beacause this app is not published to the Google Play Store. Your Android phone may recognize this and warn you.

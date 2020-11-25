@@ -84,4 +84,4 @@ lint/tmp/
 
 app/release/output-metadata.json
 
-img/src/
+fastlane/metadata/android/en-US/images/src/
