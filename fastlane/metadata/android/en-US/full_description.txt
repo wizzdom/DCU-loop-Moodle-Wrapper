@@ -1,4 +1,4 @@
-Android app that wrapps moodle to support URLs of the Moddle servers of the TU Darmstadt.
+Open Moodle links of the TU Darmstadt in the official Moodle app.
 
 <h6>Disclaimer</h6>
 <p>
@@ -6,7 +6,7 @@ Neither is this an officail project by the TU Darmstadt nor by Moodle. This is j
 </p>
 
 <p>
-The Moodle at the TU Darmstadt regularly sends me mails with Moodle links to courses, forum posts and other conent on Moodle. I always read those
+The Moodle at the TU Darmstadt regularly sends me mails with Moodle links to courses, forum posts and other content on Moodle. I always read those
 mails on my android phone, but clicking on those links from the mails results in opening the browser. I installed the official Moodle App, and wanted the links to open in the Moodle App.
 As this is not nativly supported by the Moodle App, I sat down and coded this little app, that redirects links to the Moodle App.
 </p>
@@ -37,5 +37,5 @@ If the TU Darmstadt has any other Moodle URLs I should include, open an issue an
 <h6>How to uninstall the app?</h6>
 <p>
 The app won't show up on your home screen. This is intended, as there is no need for a home screen icon.
-You can uninstall the app anyway by goning to your System Settings -> Apps -> search for "TU Darmstadt Moodle Wrapper".
+To uninstall the app, open your System Settings -> Apps -> search for "TU Darmstadt Moodle Wrapper".
 </p>

@@ -1,0 +1,41 @@
+Android App, um Moodle Links der TU Darmstadt in der offiziellen Moodle App zu öffnen.
+
+<h6>Disclaimer</h6>
+<p>
+Dies ist weder ein offizielles Projekt der TU Darmstadt noch von Moodle. Es wurde nur von mir gestartet, einem Studenten der TU Darmstadt, weil ich scheinbar zu viel Freizeit habe.
+</p>
+
+<p>
+Ich bekomme regelmäßig Emails von Moodle auf mein Handy mit links zu Forenbeiträgen, Kursen und anderen Moodle-Inhalten.
+Leider öffnet sich beim Klick auf diese Links mein Browser, obwohl ich die offizielle Moodle App installiert habe.
+Da es von Haus aus keine Deep-Link-Unterstützung für die Moodle App gibt, habe ich diese App geschrieben, die einen in die Moodle App weiterleitet.
+</p>
+
+<p>
+Nachdem ich fertig mit dem Entwickeln der App war, habe ich mich gefragt, ob nicht noch andere Studenten der TU Darmstadt diese App nützlich
+finden könnten. Deshalb ist die jetzt hier zu finden.
+</p>
+
+<h6>Vorraussetzungen</h6>
+<p>
+Du brauchst mindestens Android 6.0 Marshmallow und die offizielle Moodle App (Version 2 oder neuer).
+</p>
+
+<h6>Welche Moodle-Links werden unterstützt?</h6>
+Folgende Moodle-Links werden in die Moodle-App weitergeleitet (nur https):
+<ul>
+    <li>moodle.tu-darmstadt.de (Standard Moodle)</li>
+    <li>moodle.informatik.tu-darmstadt.de (Informatiker-Moodle)</li>
+    <li>vorkurs.mathematik.tu-darmstadt.de/moodlevorkurs (Moodle für den Mathevorkurs)</li>
+    <li>wwwdid.mathematik.tu-darmstadt.de/moodle (irgend eine andere Moodle-Installation, die ich gefunden habe. Wahrscheinlich out-of-date)</li>
+</ul>
+
+<p>
+Falls die TU Darmstadt noch weitere Moodle-Installationen hat, die ich weiterleiten lassen soll, dann öffne einen Issue.
+</p>
+
+<h6>Wie kann ich die App deinstallieren?</h6>
+<p>
+Die App wird nicht auf deinem Startbildschirm erscheinen. Das ist so gewollt, denn ein Icon auf dem Home-Screen wird nicht gebraucht.
+Do kannst die App trotzdem deinstallieren. Öffne dazu Systemeinstellungen -> Apps -> suche nach "TU Darmstadt Moodle Wrapper".
+</p>
