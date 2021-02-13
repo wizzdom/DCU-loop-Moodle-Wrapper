@@ -6,7 +6,7 @@ Android app to open Moodle links of the TU Darmstadt in the official Moodle app.
 ## Disclaimer
 Neither is this an official project by the TU Darmstadt nor by Moodle. This is just started by me, a student at the TU Darmstadt, that has to much spare time.
 
-## You can download and install the app for free [here](https://github.com/JonasBernard/TU-Darmstadt-Moodle-Wrapper/releases/download/v1.0/TU-Darmstadt-Moodle-Wrapper.apk).
+## You can download and install the app for free [here](https://f-droid.org/de/packages/de.jonasbernard.tudarmstadtmoodlewrapper/).
 
 The Moodle at the TU Darmstadt regularly sends me mails with Moodle links to courses, forum posts and other content on Moodle. I always read those
 mails on my android phone, but clicking on those links from the mails results in opening the browser. I installed the [official Moodle App](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile), and wanted the links to open in the Moodle App.
