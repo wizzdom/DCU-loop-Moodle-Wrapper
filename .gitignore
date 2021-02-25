@@ -85,3 +85,5 @@ lint/tmp/
 app/release/output-metadata.json
 
 fastlane/metadata/android/en-US/images/src/
+
+.idea/sonarlint/
