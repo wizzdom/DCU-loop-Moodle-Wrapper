@@ -20,7 +20,7 @@ You will need to have and android phone with at least Android 6.0 Marshmallow an
 
 # I get a warning from Google Play Protect, what should I do?
 I did not upload the app to Google beacause this app is not published to the Google Play Store. Your Android phone may recognize this and warn you.
-You  can ignore this,it just means the code of the app has not been reviewed by an emlopyee at Google.
+You can ignore this, it just means the code of the app has not been reviewed by an emlopyee at Google.
 
 If you do not trust me and understand Java and Android development, you can read the code and see what it does. Hint: 
 Most of the interesting stuff happens [here](app/src/main/AndroidManifest.xml) and [here](app/src/main/java/de/jonasbernard/tudarmstadtmoodlewrapper/MainActivity.java).
@@ -31,6 +31,8 @@ This app supports the folloing Moodle URLs (https only):
 - moodle.informatik.tu-darmstadt.de (computer science Moodle)
 - vorkurs.mathematik.tu-darmstadt.de/moodlevorkurs (Moodle for the mathematicans preliminary course)
 - wwwdid.mathematik.tu-darmstadt.de/moodle (some other probably outdated Moodle installation I found)
+- moodle-exam.tu-darmstadt.de (moodle installation for online exams)
+- moodle.chor.tu-darmstadt.de (moodle of the TU choir)
 
 If the TU Darmstadt has any other Moodle URLs I should include, [open an issue and let me know](https://github.com/JonasBernard/TU-Darmstadt-Moodle-Wrapper/issues/new).
 

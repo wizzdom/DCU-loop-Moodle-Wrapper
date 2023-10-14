@@ -28,6 +28,8 @@ This app supports the folloing Moodle URLs (https only):
     <li>moodle.informatik.tu-darmstadt.de (computer science Moodle)</li>
     <li>vorkurs.mathematik.tu-darmstadt.de/moodlevorkurs (Moodle for the mathematicans preliminary course)</li>
     <li>wwwdid.mathematik.tu-darmstadt.de/moodle (some other probably outdated Moodle installation I found)</li>
+    <li>moodle-exam.tu-darmstadt.de (moodle installation for online exams)</li>
+    <li>moodle.chor.tu-darmstadt.de (moodle of the TU choir)</li>
 </ul>
 
 <p>

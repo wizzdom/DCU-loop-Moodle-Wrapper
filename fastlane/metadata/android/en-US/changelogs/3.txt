@@ -1,0 +1,2 @@
+* For Exam Moodle „Moodle Exam“ (moodle-exam.tu-darmstadt.de): fixed typo
++ Added "Chor der TU Darmstadt"-Moodle (moodle.chor.tu-darmstadt.de)

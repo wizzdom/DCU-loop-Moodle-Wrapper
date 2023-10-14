@@ -28,6 +28,8 @@ Folgende Moodle-Links werden in die Moodle-App weitergeleitet (nur https):
     <li>moodle.informatik.tu-darmstadt.de (Informatiker-Moodle)</li>
     <li>vorkurs.mathematik.tu-darmstadt.de/moodlevorkurs (Moodle für den Mathevorkurs)</li>
     <li>wwwdid.mathematik.tu-darmstadt.de/moodle (irgend eine andere Moodle-Installation, die ich gefunden habe. Wahrscheinlich out-of-date)</li>
+    <li>moodle-exam.tu-darmstadt.de (Moodle für Online-Klausuren)</li>
+    <li>moodle.chor.tu-darmstadt.de (Moodle des Chores der TU Darmstadt)</li>
 </ul>
 
 <p>
